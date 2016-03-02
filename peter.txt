@@ -1,3 +1,7 @@
 peter says hi
+<<<<<<< HEAD
 
 Ash was here to ;)
+=======
+So does Alex
+>>>>>>> origin/master

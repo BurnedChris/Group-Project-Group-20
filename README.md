@@ -97,3 +97,10 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 10. Unity Technologies (2016) Unity 5 Game Engine. [software] version Windows 7/8/10 Mac OS X 10.8+. San Francisco, USA: Unity Technologies.
 11. University of Waterloo Computer Science Club (2010) Google AI Challenge. [online] Waterloo: University of Waterloo Computer Science Club. Available from [http://csclub.uwaterloo.ca/contest/xiao_strategy.php](http://csclub.uwaterloo.ca/contest/xiao_strategy.php) [Accessed 12 February 2016].
 12. Poo Castro, P.O. (2013) A simple Tron bot. [online] Waterloo: University of Waterloo Computer Science Club. Available from [http://www.sifflez.org/misc/tronbot/index.html](http://www.sifflez.org/misc/tronbot/index.html) [Accessed 12 February 2016]
+
+## Appendix
+| Meeting | Attendance | Progress Made | Decisions Taken |
+|---------|------------|---------------|-----------------|
+|   Testtesttesttest      |            |               |                 |
+|         |            |               |                 |
+|         |            |               |                 |

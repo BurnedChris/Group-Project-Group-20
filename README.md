@@ -99,18 +99,27 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 12. Poo Castro, P.O. (2013) A simple Tron bot. [online] Waterloo: University of Waterloo Computer Science Club. Available from [http://www.sifflez.org/misc/tronbot/index.html](http://www.sifflez.org/misc/tronbot/index.html) [Accessed 12 February 2016]
 
 ## Appendix
-| Meeting             | Attendance          | Progress Made | Decisions Taken |
-|---------------------|---------------------|---------------|-----------------|
-| 1 (SV) - 28/01/16   | Alex, Amy, Ashley, Chris, Nathan, Peter |               |                 |
-| 2 - 03/02/16        | Alex, Amy, Ashley, Chris, James, Nathan, Peter |               |                 |
-| 3 (SV) - 04/02/16   | Amy, Ashley, Chris, Nathan, Peter |               |                 |
-| 4 - 05/02/16        | Alex, Amy, Ashley, Chris, James, Nathan, Peter |               |                 |
-| 5 - 10/02/16        | Alex, Ashley, Chris, James, Peter |               |                 |
-| 6 (SV) - 11/02/16   | Alex, Ashley, Chris, Nathan, Peter (James and Amy ill) |               |                 |
-| 7 - 12/02/16        | Alex, Amy, Ashley, Chris, James, Nathan, Peter |               |                 |
-| 8 - 15/02/16        | Alex, Amy, Ashley, Chris, Nathan, Peter |               |                 |
-| 9 (SV) - 16/02/16   | Ashley, Peter (Some of group attending academic commitments) |               |                 |
-| 10 - 17/02/16       | Alex, Amy, Ashley, Chris, James, Nathan, Peter |               |                 |
-| 11 (SV) - 18/02/16  | Amy, Ashley, Chris, Peter (Attendance not required) |               |                 |
-| 12 (SV) - 25/02/16  | Alex, Amy, Ashley, Chris, Nathan, Peter |               |                 |
-| 13 - 02/03/16       | Alex, Amy, Ashley, Chris, Nathan, Peter |               |                 |
+
+### Key
+| Letter | Definition |
+|--------|------------|
+| X      | Attended   |
+|        | Missed     |
+| I      | Illness    |
+| N      | Attendance not required |
+
+| Meeting | Alex | Amy | Ashley | Chris | James | Nathan | Peter | Progress Made | Decisions Taken |
+|---------|------|-----|--------|-------|-------|--------|-------|---------------|-----------------|
+| 1 (SV) - 28/01/16   | X | X | X | X |   | X | X | P | D |
+| 2 - 03/02/16        | X | X | X | X | X | X | X | P | D |
+| 3 (SV) - 04/02/16   |   | X | X | X |   | X | X | P | D |
+| 4 - 05/02/16        | X | X | X | X | X | X | X | P | D |
+| 5 - 10/02/16        | X |   | X | X | X |   | X | P | D |
+| 6 (SV) - 11/02/16   | X | I | X | X | I | X | X | P | D |
+| 7 - 12/02/16        | X | X | X | X | X | X | X | P | D |
+| 8 - 15/02/16        | X | X | X | X |   | X | X | P | D |
+| 9 (SV) - 16/02/16   | N | N | X | N | N | N | X | P | D |
+| 10 - 17/02/16       | X | X | X | X | X | X | X | P | D |
+| 11 (SV) - 18/02/16  | N | X | X | X | N | N | X | P | D |
+| 12 (SV) - 25/02/16  | X | X | X | X |   | X | X | P | D |
+| 13 - 02/03/16       | X | X | X | X | I | X | X | P | D |

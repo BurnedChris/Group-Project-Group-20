@@ -108,6 +108,10 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 | I      | Illness    |
 | N      | Attendance not required |
 
+P & D currently are filler text, will be updated soon.
+
+### Table
+
 | Meeting | Alex | Amy | Ashley | Chris | James | Nathan | Peter | Progress Made | Decisions Taken |
 |---------|------|-----|--------|-------|-------|--------|-------|---------------|-----------------|
 | 1 (SV) - 28/01/16   | X | X | X | X |   | X | X | P | D |

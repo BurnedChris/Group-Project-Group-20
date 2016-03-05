@@ -1,5 +1,5 @@
 # Group 20 - Group Project
-### Repository movment.
+### Repository movement.
 This repo has been moved from https://github.com/Burnsyy/Group20 to https://github.com/Burnsy/Group20. Please update the links and git links.
 ## Contributors
 Chris Burns (13465853@students.lincoln.ac.uk)<br>Peter Goudie (12447330@students.lincoln.ac.uk)<br>Nathan Dawson  (14474842@students.lincoln.ac.uk)<br>Alexander Sainsbury (12453137@students.lincoln.ac.uk)<br>Amy Hill (13455917@students.lincoln.ac.uk)<br>Ashley Statham (14470643@students.lincoln.ac.uk)<br>James P Wearing (12453960@students.lincoln.ac.uk)

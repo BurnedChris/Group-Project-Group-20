@@ -116,16 +116,18 @@ P & D currently are filler text, will be updated soon.
 
 | Meeting | Alex | Amy | Ashley | Chris | James | Nathan | Peter | Progress Made | Decisions Taken |
 |---------|------|-----|--------|-------|-------|--------|-------|---------------|-----------------|
-| 1 (SV) - 28/01/16   | X | X | X | X |   | X | X | P | D |
-| 2 - 03/02/16        | X | X | X | X | X | X | X | P | D |
-| 3 (SV) - 04/02/16   |   | X | X | X |   | X | X | P | D |
-| 4 - 05/02/16        | X | X | X | X | X | X | X | P | D |
-| 5 - 10/02/16        | X |   | X | X | X |   | X | P | D |
-| 6 (SV) - 11/02/16   | X | I | X | X | I | X | X | P | D |
-| 7 - 12/02/16        | X | X | X | X | X | X | X | P | D |
-| 8 - 15/02/16        | X | X | X | X |   | X | X | P | D |
-| 9 (SV) - 16/02/16   | N | N | X | N | N | N | X | P | D |
-| 10 - 17/02/16       | X | X | X | X | X | X | X | P | D |
-| 11 (SV) - 18/02/16  | N | X | X | X | N | N | X | P | D |
-| 12 (SV) - 25/02/16  | X | X | X | X |   | X | X | P | D |
-| 13 - 02/03/16       | X | X | X | X | I | X | X | P | D |
+| 1 (SV) - 28/01/16   | X | X | X | X |   | X | X | Discussed various AI ideas on food shopping, giveaways, for literature review use ALM library, IEEE, Google Scholar. | Ensure that when further into the project we focus carefully on the proposal. Regular weekly meetings will be organised. |
+| 2 - 03/02/16        | X | X | X | X | X | X | X | Game AI could be viable, although discussion of implementation and difficulty. | Research into current AI news and field in general. Concluded meeting with two ideas to present to Kathrin - Game AI, movie suggestion/review AI. |
+| 3 (SV) - 04/02/16   |   | X | X | X |   | X | X | Game AI far more viable as a concept, less ‘language’ needed. When developing GANTT chart buffers, milestones etc. needed. | Proceed with Game AI and research into the field. Game could be made in Unity - links with C#, members have experience with it. Will likely base our game on an existing genre or type, with proper references. |
+| 4 - 05/02/16        | X | X | X | X | X | X | X | Began full development of the proposal, some of group began work on the prototype and continued research. | Split group into two parts 3 working on Games and 4 working on proposal. |
+| 5 - 10/02/16        | X |   | X | X | X |   | X | Initial draft of proposal has been written, references being properly converted to the Harvard standard. | Research must continue on other examples of games AI, relevant information on the subject field in general. |
+| 6 (SV) - 11/02/16   | X | I | X | X | I | X | X | Use feedback given by supervisor to develop a new draft of the document. Ensure that citations for references are used within the writing itself to back up statements made. Develop a document that reaches, but does not surpass, the page limit described in the brief. | Synthesise the references when writing lit review. Ensure proper risk matrix. Use one or two references in introduction - make sure it is the assigned length. ‘Tick all the formal boxes’. Describe artefact as specific as you can - give some thought as to what you want to develop. GANTT chart should show detailed breakup of what you will be working on. |
+| 7 - 12/02/16        | X | X | X | X | X | X | X | Further development of the project proposal - more writing is currently underway. | James will create a draft of the GANTT chart. More of the project proposal/introduction section will be written. |
+| 8 - 15/02/16        | X | X | X | X |   | X | X | GANTT chart further developed based on the previous item developed. Further work on the introduction section took place. | The GANTT chart being worked on in the meeting will be completed by Chris and Peter later today. |
+| 9 (SV) - 16/02/16   | N | N | X | N | N | N | X | GANTT chart to be revised further according to feedback, headings on document being changed as mentioned. | Reformat document to follow standardised headings (Intro, Aims etc.), separate out objectives in GANTT chart further, explain mark allocation more, risk matrix needs more detail including likelihood, severity, mitigation, implementation, what materials/people could help with each risk. Make final draft that meets page limits and if possible send for review by 3pm Wednesday. |
+| 10 - 17/02/16       | X | X | X | X | X | X | X | Video recorded, more of the proposal and literature review written, citations made within the text, risk matrix further developed. | GANTT chart still be done - later today. Video will be edited and uploaded by Peter. Rest of group will continue progress on document, lit review and proposal. Draft being sent to supervisor. |
+| 11 (SV) - 18/02/16  | N | X | X | X | N | N | X | Video edited, documentation finalised. | Within this meeting final changes will be made to the documentation, checks on the literary review and references. |
+| 12 (SV) - 25/02/16  | X | X | X | X |   | X | X | Discussion of the next steps to be taken, team needs to learn and adapt to Unity and Git tools | The appendix and attendance record used for the previous assessment item will be continued. Prototypes and AI need to be developed in the coming weeks. Kathrin's email always open for questions & queries. |
+| 13 - 02/03/16       | X | X | X | X | I | X | X | Members present downloaded and tested commits to the Github project and learnt the relevant tools in submitting commits, branches etc. | Progress with Unity to be made in the next few meetings including testing and updating the current version of the game. |
+| 14 - 03/03/16       | X | X | X | X |   | X | X | Shared news of Github developments, readme file. Asked some questions relating to project to support further progress. | Meetings should occur as regularly as possible due to deadlines. |
+| 15 - 09/03/16       | X |   | X | X |   | X | X | More development on the game and AI, discussion of how testing should be conducted to improve the methods and code behind the AI. | Further discussion to take place tomorrow. Members need to do as much reading and learning of tools as possible in free time to aid future development. |

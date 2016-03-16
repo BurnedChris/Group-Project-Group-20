@@ -6,17 +6,26 @@ public class LightcycleController : MonoBehaviour
 
     public float period = 0.05f;
     public int direction = 0;
+    public GameObject trailObject;
+
+    Vector3 startPos;
+    GameObject currentTrailObject;
+    int scale = 1;
 
     // Use this for initialization
     void Start()
     {
+        startPos = transform.position;
+        currentTrailObject = Instantiate<GameObject>(trailObject);
+        currentTrailObject.transform.SetParent(GameObject.Find("Walls").transform);
+        currentTrailObject.transform.position = startPos;
         InvokeRepeating("Movement", period, period);
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        int tD = direction;
         // Changes the direction variable based on the key pressed.
         if (Input.GetKeyDown(KeyCode.W))
         {
@@ -33,6 +42,15 @@ public class LightcycleController : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.A))
         {
             direction = 3;
+        }
+        if(tD != direction)
+        {
+            fitColliderBetween(currentTrailObject, startPos, transform.position);
+            startPos = transform.position;
+            currentTrailObject = Instantiate<GameObject>(trailObject);
+            currentTrailObject.transform.SetParent(GameObject.Find("Walls").transform);
+            currentTrailObject.transform.position = startPos;
+            scale = 1;
         }
 
         // TODO: When direction is changed, we must record this as this is the easiest way to build
@@ -61,7 +79,27 @@ public class LightcycleController : MonoBehaviour
 
         }
         // Cheap reset of velocity. Uses rigidbody to enable collision detection.
-        transform.GetComponent<Rigidbody2D>().velocity = add * 10f;
+        transform.position += add * 1f;
+        fitColliderBetween(currentTrailObject, startPos, transform.position);
+
+    }
+
+    void fitColliderBetween(GameObject co, Vector2 a, Vector2 b)
+    {
+        // Calculate the Center Position
+        co.transform.position = a + (b - a) * 0.5f;
+
+        // Scale it (horizontally or vertically)
+        float dist = Vector2.Distance(a, b) * 8;
+        if (a.x != b.x)
+            co.transform.localScale = new Vector2(dist + 1, 1);
+        else
+            co.transform.localScale = new Vector2(1, dist + 1);
+    }
+
+    void OnCollisionEnter(Collision collision)
+    {
+
     }
 
 }

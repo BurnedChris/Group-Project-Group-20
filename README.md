@@ -110,8 +110,6 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 | I      | Illness    |
 | N      | Attendance not required |
 
-P & D currently are filler text, will be updated soon.
-
 ### Table
 
 | Meeting | Alex | Amy | Ashley | Chris | James | Nathan | Peter | Progress Made | Decisions Taken |
@@ -133,5 +131,5 @@ P & D currently are filler text, will be updated soon.
 | 15 - 09/03/16       | X |   | X | X |   | X | X | More development on the game and AI, discussion of how testing should be conducted to improve the methods and code behind the AI. | Further discussion to take place tomorrow. Members need to do as much reading and learning of tools as possible in free time to aid future development. |
 | 16 - 10/03/16       |   | X | X |   |   |   | X | Updated group supervisor on current progress, more work on the documentation side of the project will begin. | Documentation writeup will see a return to Google Docs. Development continuing on the game build and other aspects of the assessment item. |
 | 17 - 16/03/16       | I |   | X | X |   | X | X | Layout of the documentation defined, headings made, significant amount of work done on the tools used aspect. Some work on the menu screens for the game was lost while good progress was made on the game itself, assets, collisions and so on. | More discussion to take place tomorrow regarding work done over the easter break including a review of who feels most comfortable doing what, although it should be noted all members must make a strong contribution to the development of the artefact itself. |
-| 18 - 17/03/16       |   |   |   |   |   |   |   | P | D |
+| 18 - 17/03/16       | I |   |   |   |   |   | X | Work on documentation so far has gone well, as has work on the game, assets etc., but more progress needs to be made; AI will need a lot of work in terms of implementation, must ensure programming is not down to one or two people - could split up, one person tries one approach etc. | The group needs to decide how work will be split and shared over Easter, who will do what etc. Work on game AI & artefact is vital, as is good communication. Documentation work can continue - ensure it demonstrates everything, fulfills brief/CRG. |
 | 00 - 00/00/16       |   |   |   |   |   |   |   | P | D |

@@ -4,7 +4,7 @@ This repo has been moved from https://github.com/Burnsyy/Group20 to https://gith
 ## Contributors
 Chris Burns (13465853@students.lincoln.ac.uk)<br>Peter Goudie (12447330@students.lincoln.ac.uk)<br>Nathan Dawson  (14474842@students.lincoln.ac.uk)<br>Alexander Sainsbury (12453137@students.lincoln.ac.uk)<br>Amy Hill (13455917@students.lincoln.ac.uk)<br>Ashley Statham (14470643@students.lincoln.ac.uk)<br>James P Wearing (12453960@students.lincoln.ac.uk)
 ## supervisor
-Kathrin Gerling(kgerling@lincoln.ac.uk)
+Kathrin Gerling (kgerling@lincoln.ac.uk)
 
 ## Video
 [![Group 20's Short Video - CMP2089M Group Project Assessment Item 1](http://img.youtube.com/vi/G4t85NzI2jg/0.jpg)](http://www.youtube.com/watch?v=G4t85NzI2jg "Group 20's Short Video - CMP2089M Group Project Assessment Item 1")
@@ -127,13 +127,22 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 | 11 (SV) - 18/02/16  | N | X | X | X | N | N | X | Video edited, documentation finalised. | Within this meeting final changes will be made to the documentation, checks on the literary review and references. |
 | 12 (SV) - 25/02/16  | X | X | X | X |   | X | X | Discussion of the next steps to be taken, team needs to learn and adapt to Unity and Git tools | The appendix and attendance record used for the previous assessment item will be continued. Prototypes and AI need to be developed in the coming weeks. Kathrin's email always open for questions & queries. |
 | 13 - 02/03/16       | X | X | X | X | I | X | X | Members present downloaded and tested commits to the Github project and learnt the relevant tools in submitting commits, branches etc. | Progress with Unity to be made in the next few meetings including testing and updating the current version of the game. |
-| 14 - 03/03/16       | X | X | X | X |   | X | X | Shared news of Github developments, readme file. Asked some questions relating to project to support further progress. | Meetings should occur as regularly as possible due to deadlines. |
+| 14 (SV) - 03/03/16       | X | X | X | X |   | X | X | Shared news of Github developments, readme file. Asked some questions relating to project to support further progress. | Meetings should occur as regularly as possible due to deadlines. |
 | 15 - 09/03/16       | X |   | X | X |   | X | X | More development on the game and AI, discussion of how testing should be conducted to improve the methods and code behind the AI. | Further discussion to take place tomorrow. Members need to do as much reading and learning of tools as possible in free time to aid future development. |
-| 16 - 10/03/16       |   | X | X |   |   |   | X | Updated group supervisor on current progress, more work on the documentation side of the project will begin. | Documentation writeup will see a return to Google Docs. Development continuing on the game build and other aspects of the assessment item. |
+| 16 (SV) - 10/03/16  |   | X | X |   |   |   | X | Updated group supervisor on current progress, more work on the documentation side of the project will begin. | Documentation writeup will see a return to Google Docs. Development continuing on the game build and other aspects of the assessment item. |
 | 17 - 16/03/16       | I |   | X | X |   | X | X | Layout of the documentation defined, headings made, significant amount of work done on the tools used aspect. Some work on the menu screens for the game was lost while good progress was made on the game itself, assets, collisions and so on. | More discussion to take place tomorrow regarding work done over the easter break including a review of who feels most comfortable doing what, although it should be noted all members must make a strong contribution to the development of the artefact itself. |
-| 18 - 17/03/16       | I |   |   |   |   |   | X | Work on documentation so far has gone well, as has work on the game, assets etc., but more progress needs to be made; AI will need a lot of work in terms of implementation, must ensure programming is not down to one or two people - could split up, one person tries one approach etc. | The group needs to decide how work will be split and shared over Easter, who will do what etc. Work on game AI & artefact is vital, as is good communication. Documentation work can continue - ensure it demonstrates everything, fulfills brief/CRG. |
+| 18 (SV) - 17/03/16  | I |   |   |   |   |   | X | Work on documentation so far has gone well, as has work on the game, assets etc., but more progress needs to be made; AI will need a lot of work in terms of implementation, must ensure programming is not down to one or two people - could split up, one person tries one approach etc. | The group needs to decide how work will be split and shared over Easter, who will do what etc. Work on game AI & artefact is vital, as is good communication. Documentation work can continue - ensure it demonstrates everything, fulfills brief/CRG. |
+| 19 (SV) - 07/04/16  | X | X | X | X |   | X | X | Group work seems to be quite fragmented as of late due to different skill sets and abilities. Main menu progress made. Fake lobby of players idea - you only need some of the elements in showing it's a human or an AI.  | More work on documentation needed; specifically critical analysis; this is the most important part. Anything that's a problem, discuss it and write about it, how it affected the team, how it was managed, strategies taken. |
+| 20 - 07/04/16       |   |   |   |   |   |   |   | P | D |
 | 00 - 00/00/16       |   |   |   |   |   |   |   | P | D |
+
+| Meeting | Alex | Amy | Ashley | Chris | James | Nathan | Peter | Progress Made | Decisions Taken |
+|---------|------|-----|--------|-------|-------|--------|-------|---------------|-----------------|
 
 ### General Observations
 Last updated: 17/03/16
 After easter the group needs to meet as regularly as possible after easter and try and get work done as soon as we can. It will be important that we don't forget the amount of work needed to be completed on a weekly basis, especially given other assessments due in over the last three weeks of April in addition to exams and the as-yet-unconfirmed date of the artefact demonstration during the exam period in May.
+Make sure you include the attendance log and other information when you come to submit.
+
+### Notes on the Demonstration
+In the demonstration there will be two marks; talk about things that went well, things that didn't (as a group), what you would do differently. Make sure everyone in the group talks when it comes to the demonstraiton. Expected to be roughly half an hour although you will not be presenting or talking for all of it. In your presentation use pictures, video, research, anything you need to back up your claims etc. "No withcraft." Kathrin is available to look at your slides etc. if needed.

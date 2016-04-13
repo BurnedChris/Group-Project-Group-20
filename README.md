@@ -108,7 +108,7 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 | X      | Attended   |
 |        | Missed     |
 | I      | Illness    |
-| N      | Attendance not required |
+| N      | Attendance not required/excused |
 
 ### Table
 
@@ -134,15 +134,18 @@ We have allocated everyone in the group the entire amount of marks as we felt th
 | 18 (SV) - 17/03/16  | I |   |   |   |   |   | X | Work on documentation so far has gone well, as has work on the game, assets etc., but more progress needs to be made; AI will need a lot of work in terms of implementation, must ensure programming is not down to one or two people - could split up, one person tries one approach etc. | The group needs to decide how work will be split and shared over Easter, who will do what etc. Work on game AI & artefact is vital, as is good communication. Documentation work can continue - ensure it demonstrates everything, fulfills brief/CRG. |
 | 19 (SV) - 07/04/16  | X | X | X | X |   | X | X | Group work seems to be quite fragmented as of late due to different skill sets and abilities. Main menu progress made. Fake lobby of players idea - you only need some of the elements in showing it's a human or an AI.  | More work on documentation needed; specifically critical analysis; this is the most important part. Anything that's a problem, discuss it and write about it, how it affected the team, how it was managed, strategies taken. |
 | 20 - 10/04/16       | X |   | X | X | X | X | X | Further work on menus, game AI and documentation was made in the weekend meeting. Once completed to a good level of work this needs to be sent to Kathrin. | Email of documentation so far will be sent to Kathrin for review and suggestions for improvements will be given. Work on the documentation will continue outside of meetings before the next during the week. |
-| 00 - 00/00/16       |   |   |   |   |   |   |   | P | D |
+| 21 - 12/04/16       | N | N | N | X | N | N | X | Little progress on documentation plugging, assessing current situation regarding loss of work. | New version of game needs to be matched with loading scenes and menu scenes, use of GitHub needs to be improved. |
+| 22 - 13/04/16       | X |   | N | X |   | X | X | New version of the game developed/shown to members present at the meeting. Further documentation work/writeup including discussion of the Belbin SPI. | Some of the documentation work was divided up among members present to complete during and outside the meeting. A large quantity work needs to be carried out by all group members regardless of attendance overnight and into Thursday when the deadline is. |
+| 23 - 14/04/16       | N | N | N | N | N | N | N | Submission of Assessment Item Two documentation, discussion of work and group processes with group supervisor. | Documentation handed in, work on artefact will continue until the demonstration occurs. |
 
 | Meeting | Alex | Amy | Ashley | Chris | James | Nathan | Peter | Progress Made | Decisions Taken |
 |---------|------|-----|--------|-------|-------|--------|-------|---------------|-----------------|
 
 ### General Observations
-Last updated: 17/03/16
+Last updated: 13/04/16
 After easter the group needs to meet as regularly as possible after easter and try and get work done as soon as we can. It will be important that we don't forget the amount of work needed to be completed on a weekly basis, especially given deadlines for other assessments due in over the last three weeks of April in addition to exams and the demonstration during the exam period in May.
 Make sure you include the attendance log and other information when you come to submit.
+In the documentation for the second assessment item it is important that all group members contribute and discuss the processes that occurred within the group and carry out critical analysis.
 
 ### Notes on the Demonstration
 In the demonstration there will be two marks; talk about things that went well, things that didn't (as a group), what you would do differently. Make sure everyone in the group talks when it comes to the demonstration. Expected to be roughly half an hour although you will not be presenting or talking for all of it. In your presentation use pictures, video, research, anything you need to back up your claims etc. "No witchcraft." Kathrin is available to look at your slides etc. if needed.
